@@ -9,7 +9,7 @@ My research interest are:
   iii. Regional disparity and its measurement.
 
 📫: japv@azc.uam.mx  
-🪶: [twitter](https://twitter.com/jaime_pru)
+
 
 
 <!--
