@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-Visiting professor at the Department of Economics at UAM Azcapotzalco and university professor since 2013. Among his research interests are: i. Manufacturing Labor Productivity and Regional Development; ii. Cities, economies of agglomeration and labor productivity; iii. Regional disparity and its measurement.
+I am visiting professor at the Department of Economics at Universidad Autónoma Metropolitana Unidad Azcapotzalco. I have beeen university teacher since 2013.
+
+My research interest are 
+  i. Manufacturing Labor Productivity and Regional Development;
+  ii. Cities, economies of agglomeration and labor productivity;
+  iii. Regional disparity and its measurement.
 
 <!--
 **jaime-pru/jaime-pru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
