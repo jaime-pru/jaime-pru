@@ -7,7 +7,7 @@ My research interest are
   ii. Cities, economies of agglomeration and labor productivity;
   iii. Regional disparity and its measurement.
 
-📫: japv@azc.uam.mx
+📫: japv@azc.uam.mx  
 🪶: [twitter](https://twitter.com/jaime_pru)
 
 
