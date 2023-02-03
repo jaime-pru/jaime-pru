@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am visiting professor at [Department of Economics](https://economia.azc.uam.mx/) at [Universidad Autónoma Metropolitana Unidad Azcapotzalco](https://www.azc.uam.mx/).  
-I have beeen university teacher since 2013.
+I have been university teacher since 2013.
 
 My research interest are:  
   i. Manufacturing Labor Productivity and Regional Development;  
