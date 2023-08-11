@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am visiting professor at [Department of Economics](https://economia.azc.uam.mx/) at [Universidad Autónoma Metropolitana Unidad Azcapotzalco](https://www.azc.uam.mx/).  
+Teacher, [Department of Economics](https://economia.azc.uam.mx/) at [Universidad Autónoma Metropolitana Unidad Azcapotzalco](https://www.azc.uam.mx/).  
 I have been university teacher since 2013.
 
 My research interest are:  
