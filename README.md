@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Teacher, [Department of Economics](https://economia.azc.uam.mx/) at [Universidad Autónoma Metropolitana Unidad Azcapotzalco](https://www.azc.uam.mx/).  
+Associate professor, [Department of Economics](https://economia.azc.uam.mx/) at [Universidad Autónoma Metropolitana Unidad Azcapotzalco](https://www.azc.uam.mx/).  
 I have been university teacher since 2013.
 
 My research interest are:  
@@ -8,9 +8,7 @@ My research interest are:
   ii. Cities, economies of agglomeration and labor productivity;  
   iii. Regional disparity and its measurement.
 
-📫: jap.unam@gmail.com  
-
-
+📫: japv@azc.uam.mx 
 
 <!--
 **jaime-pru/jaime-pru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
